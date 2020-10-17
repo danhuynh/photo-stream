@@ -23,11 +23,11 @@ email: dan.huynh@hey.com
 author:
   name: Dan Huynh
   email: dan.huynh@hey.com #optional
-  website: https://evanhuynh.com
+  website: http://evanhuynh.com
 description: >- # this means to ignore newlines until "baseurl:"
   @maxvoltar's minimalistic, self-hosted photo stream.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://evanhuynh.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://evanhuynh.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dandhuynh
 github_username: danhuynh
 instagram_username: dandhuynh
